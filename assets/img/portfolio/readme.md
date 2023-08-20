@@ -1,0 +1,1 @@
+thumbnail image is 600 X 315 pixels
